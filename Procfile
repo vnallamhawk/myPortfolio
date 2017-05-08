@@ -1,3 +1,2 @@
-npm install
-npm run bundle
-npm start
+web: node server.js
+
