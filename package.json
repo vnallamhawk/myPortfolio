@@ -25,6 +25,7 @@
   },
   "scripts": {
     "build": "cross-env NODE_ENV=production webpack --config ./webpack.config.js --progress --colors",
+    "postinstall": "npm run build",
     "bundle": "webpack -p --progress",
     "deploy": "webpack -p --progress --config webpack.deploy.js",
     "lint": "eslint .",
