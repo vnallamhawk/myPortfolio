@@ -24,21 +24,25 @@
     "npm": ">= 2.0.0"
   },
   "scripts": {
+    "build": "cross-env NODE_ENV=production webpack --config ./webpack.config.js --progress --colors",
     "bundle": "webpack -p --progress",
     "deploy": "webpack -p --progress --config webpack.deploy.js",
     "lint": "eslint .",
     "prepush": "npm test",
     "security-check": "nsp check --output summary",
-    "start": "webpack-dev-server --hot --inline",
-    "test": "npm run lint && npm run security-check"
+    "start": "node app.js",
+    "test": "npm run lint && npm run security-check",
+    "dev": "webpack-dev-server --hot --history-api-fallback --open"
   },
   "dependencies": {
-    "express": "^4.15.2"
+    "express": "^4.15.2",
+    "latest-version": "^3.1.0"
   },
   "devDependencies": {
     "babel-core": "^6.0.0",
     "babel-loader": "^6.0.0",
     "babel-preset-react": "^6.0.0",
+    "cross-env": "^4.0.0",
     "eslint": "^3.0.0",
     "eslint-plugin-react": "^6.0.0",
     "husky": "^0.13.0",
