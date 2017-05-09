@@ -85,8 +85,8 @@
       <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="29" column="47" lean-forward="false" selection-start-line="29" selection-start-column="47" selection-end-line="29" selection-end-column="47" />
+            <state relative-caret-position="202">
+              <caret line="27" column="43" lean-forward="true" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -109,7 +109,7 @@
         <entry file="file://$PROJECT_DIR$/public/bundle.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-122136">
-              <caret line="42" column="139716" lean-forward="false" selection-start-line="42" selection-start-column="139716" selection-end-line="42" selection-end-column="139716" />
+              <caret line="42" column="139709" lean-forward="false" selection-start-line="42" selection-start-column="139709" selection-end-line="42" selection-end-column="139709" />
               <folding />
             </state>
           </provider>
@@ -362,12 +362,12 @@
       <option name="presentableId" value="Default" />
       <updated>1494027750693</updated>
       <workItem from="1494027752191" duration="7629000" />
-      <workItem from="1494131625312" duration="17231000" />
+      <workItem from="1494131625312" duration="17583000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24860000" />
+    <option name="totallyTimeSpent" value="25212000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
@@ -726,9 +726,9 @@
     <entry file="file://$PROJECT_DIR$/public/bundle.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-122136">
-          <caret line="42" column="139716" lean-forward="false" selection-start-line="42" selection-start-column="139716" selection-end-line="42" selection-end-column="139716" />
+          <caret line="42" column="139709" lean-forward="false" selection-start-line="42" selection-start-column="139709" selection-end-line="42" selection-end-column="139709" />
           <folding>
-            <marker date="1494355226840" expanded="true" signature="586912:586946" ph="//..." />
+            <marker date="1494356050460" expanded="true" signature="482418:482452" ph="//..." />
           </folding>
         </state>
       </provider>
@@ -795,8 +795,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="29" column="47" lean-forward="false" selection-start-line="29" selection-start-column="47" selection-end-line="29" selection-end-column="47" />
+        <state relative-caret-position="202">
+          <caret line="27" column="43" lean-forward="true" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="43" />
           <folding />
         </state>
       </provider>
