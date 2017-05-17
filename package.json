@@ -32,7 +32,9 @@
     "test": "npm run lint && npm run security-check",
     "postinstall": "webpack -p --config ./webpack.config.js --progress"
   },
-  "dependencies": {},
+  "dependencies": {"webpack": "^2.0.0",
+    "webpack-dev-server": "^2.0.0",
+   },
   "devDependencies": {
     "babel-core": "^6.0.0",
     "babel-loader": "^6.0.0",

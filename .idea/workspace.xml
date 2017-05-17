@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8cefc6aa-af76-4320-b489-945f64693129" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -21,7 +22,7 @@
         <entry file="file://$PROJECT_DIR$/app/components/social_media.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="650">
-              <caret line="43" column="19" lean-forward="true" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="19" />
+              <caret line="43" column="19" lean-forward="false" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -30,8 +31,8 @@
       <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="22" column="20" lean-forward="false" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+            <state relative-caret-position="156">
+              <caret line="36" column="3" lean-forward="false" selection-start-line="36" selection-start-column="3" selection-end-line="36" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -51,7 +52,7 @@
         <entry file="file://$PROJECT_DIR$/webpack.prod.config.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="450">
-              <caret line="48" column="31" lean-forward="true" selection-start-line="48" selection-start-column="31" selection-end-line="48" selection-end-column="31" />
+              <caret line="48" column="31" lean-forward="false" selection-start-line="48" selection-start-column="31" selection-end-line="48" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -81,7 +82,7 @@
         <entry file="file://$PROJECT_DIR$/app.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
-              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -490,12 +491,12 @@
       <workItem from="1494901846297" duration="1262000" />
       <workItem from="1494962893778" duration="485000" />
       <workItem from="1494997386926" duration="2467000" />
-      <workItem from="1495002577010" duration="4253000" />
+      <workItem from="1495002577010" duration="4498000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49891000" />
+    <option name="totallyTimeSpent" value="50136000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1924" height="1042" extended-state="0" />
@@ -841,7 +842,7 @@
     <entry file="file://$PROJECT_DIR$/app/components/social_media.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="650">
-          <caret line="43" column="19" lean-forward="true" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="19" />
+          <caret line="43" column="19" lean-forward="false" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="19" />
           <folding />
         </state>
       </provider>
@@ -849,7 +850,7 @@
     <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -873,7 +874,7 @@
     <entry file="file://$PROJECT_DIR$/webpack.prod.config.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
-          <caret line="48" column="31" lean-forward="true" selection-start-line="48" selection-start-column="31" selection-end-line="48" selection-end-column="31" />
+          <caret line="48" column="31" lean-forward="false" selection-start-line="48" selection-start-column="31" selection-end-line="48" selection-end-column="31" />
           <folding />
         </state>
       </provider>
@@ -888,8 +889,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="22" column="20" lean-forward="false" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+        <state relative-caret-position="156">
+          <caret line="36" column="3" lean-forward="false" selection-start-line="36" selection-start-column="3" selection-end-line="36" selection-end-column="3" />
           <folding />
         </state>
       </provider>
