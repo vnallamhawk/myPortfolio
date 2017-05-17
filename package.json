@@ -29,7 +29,7 @@
     "lint": "eslint .",
     "prepush": "npm test",
     "security-check": "nsp check --output summary",
-    "start": "node app",
+    "start": "node app.js",
     "test": "npm run lint && npm run security-check"
   },
   "dependencies": {},
