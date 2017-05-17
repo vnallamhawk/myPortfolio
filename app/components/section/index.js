@@ -10,6 +10,7 @@ const Skills = require('./skills');
 const References = require('./references');
 const Footer = require('./footer');
 
+//setting proptypes here from resume.js
 const Section = React.createClass({
     propTypes: {
         basics: ResumePropTypes.basics,

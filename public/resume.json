@@ -19,9 +19,9 @@
 			"region": "Taylorsville"
 		},
 		"profiles": [{
-			"network": "<NETWORK>",
-			"username": "<USERNAME>",
-			"url": "<URL>"
+			"network": "email",
+			"username": "rakesh.iitc",
+			"url": "Facebook.com"
 		}]
 	},
 	"work": [{

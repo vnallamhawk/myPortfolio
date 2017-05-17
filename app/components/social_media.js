@@ -12,11 +12,9 @@ function mapIcon(socialMedia) {
             return (
                 <i className={'fa fa-envelope'}/>
             );
-        case 'quora':
+        case 'stackoverflow':
             return (
-                <i className='fa fa-fw'>
-                    <strong className='fa-quora'>Q</strong>
-                </i>
+                <i className={'fa fa-stack-overflow'}/>
             );
         default:
             return (

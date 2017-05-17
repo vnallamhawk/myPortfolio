@@ -158,6 +158,7 @@ module.exports.interestsSet = PropTypes.arrayOf(
     module.exports.interests
 ).isRequired;
 
+//for validating nested objects
 module.exports.references = PropTypes.shape({
     name: PropTypes.string.isRequired,
     position: PropTypes.string.isRequired,

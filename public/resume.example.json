@@ -19,10 +19,25 @@
 			"region": "Taylorsville"
 		},
 		"profiles": [{
-			"network": "<NETWORK>",
-			"username": "<USERNAME>",
-			"url": "<URL>"
-		}]
+			"network": "linkedin",
+			"username": "vnallam@hawk.iit.edu",
+			"url": "https://www.linkedin.com/in/venkata-rakesh-nallam-b92658a2"
+		},
+            {
+                "network": "stackoverflow",
+                "username": "rakesh.iitc@gmail.com",
+                "url": "http://stackoverflow.com/users/4687330/rakesh-nallam"
+            },
+            {
+                "network": "twitter",
+                "username": "rakesh.iitc@hawk.iit.edu",
+                "url": "https://twitter.com/IitcRakesh"
+            },
+            {
+                "network": "facebook",
+                "username": "nallam_rakesh@yahoo.com",
+                "url": "https://www.facebook.com/nallam.rakesh.7"
+            }]
 	},
 	"work": [{
 		"company": "Infosys | American Express",
