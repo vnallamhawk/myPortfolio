@@ -31,7 +31,7 @@
     "security-check": "nsp check --output summary",
     "start": "node app.js",
     "test": "npm run lint && npm run security-check",
-    "postinstall": "webpack -p --config ./webpack.prod.config.js --progress"
+    "postinstall": "webpack -p --config ./webpack.config.js --progress"
   },
   "dependencies": {},
   "devDependencies": {
