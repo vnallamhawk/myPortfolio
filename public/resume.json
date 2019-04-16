@@ -168,8 +168,17 @@
       ],
       "skillDetails": [
         {
+          "name": "ReactJS",
+          "level": "90",
+          "keywords": [
+            "<KEYWORD_1>",
+            "<KEYWORD_2>",
+            "<KEYWORD_3>"
+          ]
+        },
+        {
           "name": "AngularJS",
-          "level": "100",
+          "level": "70",
           "keywords": [
             "<KEYWORD_1>",
             "<KEYWORD_2>",
@@ -215,15 +224,6 @@
         {
           "name": "CSS 3",
           "level": "100",
-          "keywords": [
-            "<KEYWORD_1>",
-            "<KEYWORD_2>",
-            "<KEYWORD_3>"
-          ]
-        },
-        {
-          "name": "ReactJS",
-          "level": "65",
           "keywords": [
             "<KEYWORD_1>",
             "<KEYWORD_2>",
