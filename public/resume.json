@@ -169,7 +169,7 @@
       "skillDetails": [
         {
           "name": "ReactJS",
-          "level": "90",
+          "level": "95",
           "keywords": [
             "<KEYWORD_1>",
             "<KEYWORD_2>",
@@ -214,7 +214,7 @@
         },
         {
           "name": "HTML 5",
-          "level": "100",
+          "level": "95",
           "keywords": [
             "<KEYWORD_1>",
             "<KEYWORD_2>",
@@ -223,7 +223,7 @@
         },
         {
           "name": "CSS 3",
-          "level": "100",
+          "level": "95",
           "keywords": [
             "<KEYWORD_1>",
             "<KEYWORD_2>",
