@@ -1,225 +1,278 @@
 {
-	"basics": {
-		"name": "VENKATA RAKESH NALLAM",
-		"label": "Technology Analyst",
-		"picture": "../public/images/displayPic.png",
-		"email": "rakesh.iitc@gmail.com",
-		"phone": "(312)478-2243",
-		"website": "<WEBSITE>",
-		"summary": [
-			"Web application Engineer with great talent, team work and passionate in learning cutting-edge technology and creating intuitive Website.",
-			"Developed applications using the following technologies - HTML5, CSS3, Javascript, jQuery, Mongodb, Express, Angularjs, Nodejs.",
-			"Strong in architectural research, software design and agile team management."
-		],
-		"location": {
-			"address": "1955 Fallwood Drive,Apt 21",
-			"postalCode": "84129",
-			"city": "Salt Lake City",
-			"countryCode": "+1",
-			"region": "Taylorsville"
-		},
-		"profiles": [{
-			"network": "email",
-			"username": "rakesh.iitc",
-			"url": "Facebook.com"
-		}]
-	},
-	"work": [{
-		"company": "Infosys | American Express",
-		"position": "Technology Analyst",
-		"website": "www.infosys.com",
-		"startDate": "Aug-2016",
-		"endDate": "Present",
-		"summary": "Salt Lake City,Utah",
-		"highlights": [
-			"Involved in full-stack development of internal application for validating Virtual Cards and Credit Card transactions.",
-			"Implemented file upload feature using angular file upload directive and displayed a progress bar in UI by polling the backend API on frequent intervals.",
-			"Attained expertise in fixing production issues by inspecting server logs of different modules using UNIX and Splunk.",
-			"Pioneered in graphical representation of amount disbursed by customer for the current billing cycle using D3.js library.",
-			"Performed validation of internal REST and SOAP Web Services using SoapUI tool and displayed data in front-end using JSP, JSTL tags and Angularjs.",
-			"Interacted with the APIGEE team (responsible for routing web services) and ensured the web services are routed to actual provider of service.",
-			"Involved in running Jenkins Build for the latest repository and deployed the generated EAR file to the Server using LARA deployment.",
-			"Worked on Agile Methodology which involved attending scrum calls, updating tasks for stories and defects status."
-		]
-	},{
-		"company": "IIT Corporate Relations",
-		"position": "Web Developer",
-		"website": "https://web.iit.edu/corporate-relations",
-		"startDate": "Jun-2015",
-		"endDate": "Sep-2015",
-		"summary": "Chicago,Illinois",
-		"highlights": [
-			"Performed Web site development and maintenance using object oriented PHP, jQuery, HTML 5 and CSS 3.",
-			"Awarded Best Student Developer for reducing the site load time by 70 percent through inspecting the response time of each http request made to the server and making alternative coding solutions to attain maximum efficiency."
-		]
-	},{
-		"company": "Grace Innovation",
-		"position": "Web Developer and Operations Assistant Intern",
-		"website": "http://graceinnovation.com/",
-		"startDate": "Jun-2015",
-		"endDate": "Aug-2015",
-		"summary": "Tappan, NY",
-		"highlights": [
-			"Accomplished enhancement task for mayacellularparts site using PHP Zend Framework.",
-			"Performed custom modification of Wordpress CMS Theme to meet client requirements."
-		]
-	},{
-		"company": "HCL Technologies | Wolters Kluwer",
-		"position": "Software Engineer",
-		"website": "https://www.hcltech.com",
-		"startDate": "May-2011",
-		"endDate": "Jul-2014",
-		"summary": "Chennai,Tamil Nadu",
-		"highlights": [
-			"Involved in Analysis, Development and Testing phases of Loislaw website using ASP.net and JavaScript.",
-			"Created a new search algorithm using Tree Menu component of DHTMLX (Javascript UI Library) by loading tree elements from a XML file and sending the selected tree nodes values by customer for validation on Server Side.",
-			"Attained Expertise on handing cross-browser compatibility issues by writing unique code for different browsers. ",
-			"Implemented Custom Filters, Directives, Controller, Promises in AngularJS framework to construct the dynamic web Pages (presentation layer), automated task using gulp and managed the sub-version using Git.",
-			"Performed validation of internal REST and SOAP Web Services using SoapUI tool and displayed data in front-end using JSP, JSTL tags and Angularjs.",
-			"Worked on creating responsive website by considering UI/UX principles which include usability, minimalism etc."
-		]
-	}],
-	"volunteer": [{
-		"organization": "<ORGANIZATION_NAME>",
-		"position": "<POSITION>",
-		"website": "<WEBSITE>",
-		"startDate": "<START_DATE>",
-		"endDate": "<END_DATE>",
-		"summary": "<SUMMARY>",
-		"highlights": [
-			"<HIGHTLIGHT_1>",
-			"<HIGHTLIGHT_2>",
-			"<HIGHTLIGHT_3>"
-		]
-	}],
-	"education": [{
-		"institution": "Illinois Institute of Technology",
-		"area": "Web Development",
-		"studyType": "",
-		"startDate": "Aug-2014",
-		"endDate": "May-2016",
-		"gpa": "<GRADE_POINT_AVERAGE>",
-		"summary": "Graduated with Specialization in Web Design and Development. Worked As Teching Assistant for Rich Internet Application and Advance Database Management",
-		"courses": [
-			"<COURSE_1>",
-			"<COURSE_2>",
-			"<COURSE_3>"
-		]
-	}],
-	"awards": [{
-		"title": "<AWARD_TITLE>",
-		"date": "<DATE>",
-		"awarder": "<AWARDER>",
-		"summary": "<SUMMARY>"
-	}],
-	"projects": [{
-		"name": "<PUBLICATION_NAME>",
-		"publisher": "<PUBLISHER>",
-		"category": "<CATEGORY>",
-		"releaseDate": "<RELEASE_DATE>",
-		"website": "<WEBSITE>",
-		"summary": "<SUMMARY>",
-		"image": {
-			"modal": "<MODAL_IMAGE>",
-			"thumb": "<THUMBNAIL_IMAGE>"
-		},
-		"keywords": [
-			"<KEYWORD_1>",
-			"<KEYWORD_2>",
-			"<KEYWORD_3>"
-		]
-	}],
-	"skills": [{
-		"title": "Programming Languages and Frameworks",
-		"description": [
-			"Worked primarily with Javascript, jQuery, java and .Net, with frameworks such as AngularJS, Node.js, Express.js, D3.js and React.js."
-		],
-		"skillDetails": [{
-			"name": "AngularJS",
-			"level": "100",
-			"keywords": [
-				"<KEYWORD_1>",
-				"<KEYWORD_2>",
-				"<KEYWORD_3>"
-			]
-		},{
-			"name": "jQuery",
-			"level": "90",
-			"keywords": [
-				"<KEYWORD_1>",
-				"<KEYWORD_2>",
-				"<KEYWORD_3>"
-			]
-		},{
-			"name": "Java",
-			"level": "70",
-			"keywords": [
-				"<KEYWORD_1>",
-				"<KEYWORD_2>",
-				"<KEYWORD_3>"
-			]
-		},{
-			"name": ".Net",
-			"level": "70",
-			"keywords": [
-				"<KEYWORD_1>",
-				"<KEYWORD_2>",
-				"<KEYWORD_3>"
-			]
-		},{
-			"name": "HTML 5",
-			"level": "100",
-			"keywords": [
-				"<KEYWORD_1>",
-				"<KEYWORD_2>",
-				"<KEYWORD_3>"
-			]
-		},{
-			"name": "CSS 3",
-			"level": "100",
-			"keywords": [
-				"<KEYWORD_1>",
-				"<KEYWORD_2>",
-				"<KEYWORD_3>"
-			]
-		},{
-			"name": "ReactJS",
-			"level": "65",
-			"keywords": [
-				"<KEYWORD_1>",
-				"<KEYWORD_2>",
-				"<KEYWORD_3>"
-			]
-		}]
-	}],
-	"languages": [{
-		"name": "<LANGUAGE_NAME>",
-		"level": "<LANGUAGE_LEVEL>"
-	}],
-	"interests": [{
-		"name": "<INTEREST_NAME>",
-		"keywords": [
-			"<KEYWORD_1>",
-			"<KEYWORD_2>",
-			"<KEYWORD_3>"
-		]
-	}],
-	"references": [{
-		"name": "Michael Berean",
-		"position": "CEO",
-		"company": "Grace Innovation",
-		"reference": "Rakesh has an excellent work ethic and skillset. He is very bright and knows his craft well. His attention to detail and ability to complete tasks in a timely manner really impressed me. I would recommend him for a project any day."
-	},
-	{
-		"name": "Scott Klapman",
-		"position": "Manager",
-		"company": "IIT Corporate Relations",
-		"reference": "Rakesh was responsible for maintenance and development of our custom PhP based CRM application. He had attained expertise on Javascript and MySQL Database while working at IIT Corporate Relations. His work was of high quality."
-	},
-	{
-		"name": "Shashidhar Ganesan",
-		"position": "Software Development Manager",
-		"company": "Microassist",
-		"reference": "Rakesh is a motivated technical go-getter. He is an excellent Programmer and worked in delivering constantly commendable output for Wolters Kluwer (a US-based global information services company). He is a much-required to any team."
-	}]
+  "basics": {
+    "name": "VENKATA RAKESH NALLAM",
+    "label": "Technology Analyst",
+    "picture": "../public/images/displayPic.png",
+    "email": "rakeshnallam28@gmail.com",
+    "phone": "(312)478-2243",
+    "website": "http://rakeshnallam.herokuapp.com",
+    "summary": [
+      "Web application Engineer with great talent, team work and passionate in learning cutting-edge technology and creating intuitive Website.",
+      "Developed applications using the following technologies - HTML5, CSS3, Javascript(ES6), jQuery, Mongodb, Express, Angularjs, Nodejs, PHP",
+      "Strong in architectural research, software design and agile team management."
+    ],
+    "location": {
+      "address": "12430 Metric Blvd",
+      "postalCode": "78758",
+      "city": "Austin",
+      "countryCode": "+1",
+      "region": "Travis"
+    },
+    "profiles": [
+      {
+        "network": "email",
+        "username": "rakesh.iitc",
+        "url": "Facebook.com"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Kforce | Home Depot",
+      "position": "Senior Web Developer",
+      "website": "https://www.homedepot.com/",
+      "startDate": "Dec-2018",
+      "endDate": "Mar-2019",
+      "summary": "Austin,Texas",
+      "highlights": [
+        "Successfully migrated legacy application (jQuery,java) to pivotal cloud foundry environment(React,Node).",
+        "Reduced number of API calls made in different components to 20% for React App by accessing data from Redux Store.",
+        "Implemented JWT Tokens for the API request in the application which securely transmitted data between parties.",
+        "Increased React App performance by 10% by identify performance issues using React Perf library."
+      ]
+    },
+    {
+      "company": "Infosys | American Express",
+      "position": "Senior Web Developer",
+      "website": "https://www.americanexpress.com/",
+      "startDate": "Aug-2016",
+      "endDate": "Present",
+      "summary": "Salt Lake City,Utah",
+      "highlights": [
+        "Increased efficiency of React app by 15% by storing the minimal possible state using Selectors which prevented the repeated computation of derived data when state tree changes by using memoization technique.",
+        "Reduced lead time by 10% by deploying to different environments by migrating to PAAS environments which aided in    faster deliverables with reduced cost and maintenance.",
+        "Involved in full-stack development of internal application for validating Virtual Cards and Credit Card transactions.",
+        "Implemented file upload feature using angular file upload directive and displayed a progress bar in UI by polling the backend API on frequent intervals.",
+        "Attained expertise in fixing production issues by inspecting server logs of different modules using UNIX and Splunk.",
+        "Pioneered in graphical representation of amount disbursed by customer for the current billing cycle using D3.js library.",
+        "Performed validation of internal REST and SOAP Web Services using SoapUI tool and displayed data in front-end using JSP, JSTL tags and Angularjs.",
+        "Interacted with the APIGEE team (responsible for routing web services) and ensured the web services are routed to actual provider of service.",
+        "Worked on Agile Methodology which involved attending scrum calls, updating tasks for stories and defects status.",
+        "Increased profit margin to 10% by graphically representing various credit card transaction from Amex by identifying    KPI’s which are required in making critical business decisions using angularjs, d3.js, highcharts etc"
+      ]
+    },
+    {
+      "company": "IIT Corporate Relations",
+      "position": "Web Developer",
+      "website": "https://web.iit.edu/corporate-relations",
+      "startDate": "Jun-2015",
+      "endDate": "Sep-2015",
+      "summary": "Chicago,Illinois",
+      "highlights": [
+        "Performed Web site development and maintenance using object oriented PHP, jQuery, HTML 5 and CSS 3.",
+        "Awarded Best Student Developer for reducing the site load time by 70 percent through inspecting the response time of each http request made to the server and making alternative coding solutions to attain maximum efficiency."
+      ]
+    },
+    {
+      "company": "Grace Innovation",
+      "position": "Web Developer and Operations Assistant Intern",
+      "website": "http://graceinnovation.com/",
+      "startDate": "Jun-2015",
+      "endDate": "Aug-2015",
+      "summary": "Tappan, NY",
+      "highlights": [
+        "Accomplished enhancement task for mayacellularparts site using PHP Zend Framework.",
+        "Performed custom modification of Wordpress CMS Theme to meet client requirements."
+      ]
+    },
+    {
+      "company": "HCL Technologies | Wolters Kluwer",
+      "position": "Web Developer",
+      "website": "https://www.hcltech.com",
+      "startDate": "May-2011",
+      "endDate": "Jul-2014",
+      "summary": "Chennai,Tamil Nadu",
+      "highlights": [
+        "Involved in Analysis, Development and Testing phases of Loislaw website using ASP.net and JavaScript.",
+        "Created a new search algorithm using Tree Menu component of DHTMLX (Javascript UI Library) by loading tree elements from a XML file and sending the selected tree nodes values by customer for validation on Server Side.",
+        "Attained Expertise on handing cross-browser compatibility issues by writing unique code for different browsers. ",
+        "Implemented Custom Filters, Directives, Controller, Promises in AngularJS framework to construct the dynamic web Pages (presentation layer), automated task using gulp and managed the sub-version using Git.",
+        "Performed validation of internal REST and SOAP Web Services using SoapUI tool and displayed data in front-end using JSP, JSTL tags and Angularjs.",
+        "Worked on creating responsive website by considering UI/UX principles which include usability, minimalism etc."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "<ORGANIZATION_NAME>",
+      "position": "<POSITION>",
+      "website": "<WEBSITE>",
+      "startDate": "<START_DATE>",
+      "endDate": "<END_DATE>",
+      "summary": "<SUMMARY>",
+      "highlights": [
+        "<HIGHTLIGHT_1>",
+        "<HIGHTLIGHT_2>",
+        "<HIGHTLIGHT_3>"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Illinois Institute of Technology",
+      "area": "Web Development",
+      "studyType": "",
+      "startDate": "Aug-2014",
+      "endDate": "May-2016",
+      "gpa": "<GRADE_POINT_AVERAGE>",
+      "summary": "Graduated with Specialization in Web Design and Development. Worked As Teching Assistant for Rich Internet Application and Advance Database Management",
+      "courses": [
+        "<COURSE_1>",
+        "<COURSE_2>",
+        "<COURSE_3>"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "<AWARD_TITLE>",
+      "date": "<DATE>",
+      "awarder": "<AWARDER>",
+      "summary": "<SUMMARY>"
+    }
+  ],
+  "projects": [
+    {
+      "name": "<PUBLICATION_NAME>",
+      "publisher": "<PUBLISHER>",
+      "category": "<CATEGORY>",
+      "releaseDate": "<RELEASE_DATE>",
+      "website": "<WEBSITE>",
+      "summary": "<SUMMARY>",
+      "image": {
+        "modal": "<MODAL_IMAGE>",
+        "thumb": "<THUMBNAIL_IMAGE>"
+      },
+      "keywords": [
+        "<KEYWORD_1>",
+        "<KEYWORD_2>",
+        "<KEYWORD_3>"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "title": "Programming Languages and Frameworks",
+      "description": [
+        "Worked primarily with Javascript, jQuery, java and .Net, with frameworks such as AngularJS, Node.js, Express.js, D3.js and React.js."
+      ],
+      "skillDetails": [
+        {
+          "name": "AngularJS",
+          "level": "100",
+          "keywords": [
+            "<KEYWORD_1>",
+            "<KEYWORD_2>",
+            "<KEYWORD_3>"
+          ]
+        },
+        {
+          "name": "jQuery",
+          "level": "90",
+          "keywords": [
+            "<KEYWORD_1>",
+            "<KEYWORD_2>",
+            "<KEYWORD_3>"
+          ]
+        },
+        {
+          "name": "Java",
+          "level": "70",
+          "keywords": [
+            "<KEYWORD_1>",
+            "<KEYWORD_2>",
+            "<KEYWORD_3>"
+          ]
+        },
+        {
+          "name": ".Net",
+          "level": "70",
+          "keywords": [
+            "<KEYWORD_1>",
+            "<KEYWORD_2>",
+            "<KEYWORD_3>"
+          ]
+        },
+        {
+          "name": "HTML 5",
+          "level": "100",
+          "keywords": [
+            "<KEYWORD_1>",
+            "<KEYWORD_2>",
+            "<KEYWORD_3>"
+          ]
+        },
+        {
+          "name": "CSS 3",
+          "level": "100",
+          "keywords": [
+            "<KEYWORD_1>",
+            "<KEYWORD_2>",
+            "<KEYWORD_3>"
+          ]
+        },
+        {
+          "name": "ReactJS",
+          "level": "65",
+          "keywords": [
+            "<KEYWORD_1>",
+            "<KEYWORD_2>",
+            "<KEYWORD_3>"
+          ]
+        }
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "name": "<LANGUAGE_NAME>",
+      "level": "<LANGUAGE_LEVEL>"
+    }
+  ],
+  "interests": [
+    {
+      "name": "<INTEREST_NAME>",
+      "keywords": [
+        "<KEYWORD_1>",
+        "<KEYWORD_2>",
+        "<KEYWORD_3>"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jeremy Powell",
+      "position": "Technical Project Manager",
+      "company": "American Express",
+      "reference": "Rakesh was a good contributor to the team. His lead in the UI development was welcomed, and set the standard moving forward for the new comers to the team. Setting us up for success on REACT using EPAAS was commendable. Rakesh will contribute and deliver goals set for him every time."
+    },
+    {
+      "name": "Michael Berean",
+      "position": "CEO",
+      "company": "Grace Innovation",
+      "reference": "Rakesh has an excellent work ethic and skillset. He is very bright and knows his craft well. His attention to detail and ability to complete tasks in a timely manner really impressed me. I would recommend him for a project any day."
+    },
+    {
+      "name": "Scott Klapman",
+      "position": "Manager",
+      "company": "IIT Corporate Relations",
+      "reference": "Rakesh was responsible for maintenance and development of our custom PhP based CRM application. He had attained expertise on Javascript and MySQL Database while working at IIT Corporate Relations. His work was of high quality."
+    },
+    {
+      "name": "Shashidhar Ganesan",
+      "position": "Software Development Manager",
+      "company": "Microassist",
+      "reference": "Rakesh is a motivated technical go-getter. He is an excellent Programmer and worked in delivering constantly commendable output for Wolters Kluwer (a US-based global information services company). He is a much-required to any team."
+    }
+  ]
 }
